@@ -1,0 +1,16 @@
+Package: pido
+Type: Package
+Title: Educational multi-purpose package with functional and NLP stuff
+Version: 0.3.0
+Author: Dima Balobin
+Maintainer: The package maintainer <hanaan@internet.ru>
+Description: I don't know what it is, but
+    it's kind of hack.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Remotes: github::d0rj/pido
+Depends: R(>= 3.6)
+Imports: 
+  stringr, 
+  stringi
+RoxygenNote: 7.1.1
